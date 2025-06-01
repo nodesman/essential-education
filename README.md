@@ -17,6 +17,7 @@ The primary goal is to provide a structured yet flexible environment to capture 
     *   `relationships/`: Content focused on understanding and navigating various types of relationships.
     *   `(other_books...)/`: Placeholder for future book projects.
     *   Each book directory may contain an `outline.md` file for planning and Markdown files for chapters/sections as they develop.
+*   `wisdom_and_analysis/`: A dedicated space for personal thinking, reasoning, experiments, observations, and synthesizing wisdom. This area is for your own deeper exploration and may inform book content or stand alone as personal insights.
 *   `rough_notes/`: The **primary capture area** for all raw, unfiltered ideas, notes, anecdotes, and concepts as they arise.
 
 ## Key Cross-Cutting Themes
@@ -43,11 +44,9 @@ A core understanding is that boundaries are the actively defined limits and rule
 
 3.  **Review and Process:** Periodically (e.g., weekly), review the files in `rough_notes/`.
     *   **Refine:** Clarify the writing, add detail, or break down complex ideas into smaller notes if needed.
-    *   **Relocate:** If a note feels sufficiently developed and clearly belongs in a specific book's chapter or section, *move* or *copy* (and adapt) the content into the relevant Markdown file within the `books/` directory structure. Update or remove the `ROUGH NOTE` marker.
+    *   **Categorize & Relocate:**
+        *   If a note is developing into specific book content, *move* or *copy* (and adapt) it into the relevant Markdown file within the `books/` directory structure. Update or remove the `ROUGH NOTE` marker.
+        *   If a note is more suited for deeper personal reflection, synthesis of ideas, recording observations/experiments, or collecting wisdom, *move* or *copy* it to the `wisdom_and_analysis/` directory for further development or personal record-keeping. Content here may or may not directly become book material but serves your foundational thinking.
     *   **Outline Development:** Use insights from rough notes to build out the `outline.md` files within each book's directory.
 
-4.  **Develop Book Content:** Focused writing happens within the specific book directories in `books/`. Use the processed notes and outlines as guides.
-
-## Future Goals
-
-The concepts and structured content developed here may eventually form the basis for creating more interactive learning tools, such as an AI/LLM designed to test understanding of nuanced situations described in the books. This underscores the importance of clear definitions and well-articulated concepts as the writing progresses.
+4.  **Develop Foundational Insights:** Use the `wisdom
