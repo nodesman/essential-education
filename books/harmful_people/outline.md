@@ -32,6 +32,24 @@
 - Power Dynamics in Harmful Relationships
 - Empathy Deficits (Overlap with Empathy Book?)
 - Environmental/Systemic Factors
+- Understanding perpetrator psychology (briefly, to aid understanding, not to excuse)
+
+## Part 5: Aftermath - Healing and Rebuilding
+- The Process of Recovery: Acknowledging the impact.
+- Reclaiming Your Narrative: Not letting the harm or person define you.
+    - Identifying and acknowledging the narrative/premise imposed by the harmful person.
+    - Resisting the internalization of premises set by harmful individuals.
+        - Actively deconstructing and challenging the false or distorted elements of the imposed narrative.
+    - The immense effort involved (ref. "Don't let X define you" is not simple).
+    - Consciously choosing a new, empowering perspective on the events and oneself.
+    - Shifting focus from victimhood to survival, resilience, and agency demonstrated.
+    - Externalizing blame: Correctly attributing responsibility for the harm to the perpetrator.
+    - Integrating the experience: Viewing the event as *an* experience, not *the* defining experience.
+    - Crafting a future-oriented narrative that emphasizes growth, learning, and strength.
+    - Gaining distance (temporal, emotional, physical): Creating space to see events with a fresh mind and reduced emotional intensity.
+    - Somatic and emotional processing: Allowing the body and emotions to release the old narrative and integrate the new, positive one.
+- Rebuilding Self-Esteem and Self-Respect.
+- Moving Forward: Strategies for long-term well-being.
 
 ## Conclusion
 - Summary of key recognition and response principles.
