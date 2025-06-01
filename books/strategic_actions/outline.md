@@ -35,6 +35,7 @@
 ## Developing Strategic Thinking
 *   Moving from reactive to proactive.
 *   Thinking steps ahead.
+*   Resilience and adaptation in the face of adversity.
 *   Scenario planning.
 *   Learning from successes and failures (yours and others').
 
@@ -42,7 +43,11 @@
 *   Distinguishing effective strategy from manipulation or harm.
 *   The long-term costs of unethical strategies.
 *   (Link to Harmful People book: Recognizing unethical strategies)
+*   The Strategic Risk of Internalizing "Idealism": How accepting labels like "naive" increases vulnerability to long-term harm. (Potential for timeline visualization).
+*   Principled Effectiveness: Why ethical approaches can be the most pragmatic long-term.
+*   Countering manipulative claims of "idealism" vs. "pragmatism": Recognizing the attack and defending principled action as strategically sound.
 
 ## Conclusion
 *   Integrating strategic thinking into daily life.
 *   The ongoing nature of strategy.
+*   The strategic advantage of integrity.

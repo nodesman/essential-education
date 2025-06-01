@@ -4,3 +4,6 @@ node_modules/
 
 # Kai specific logs (auto-added by GitService)
 .kai/logs/
+
+# Kai internal files (logs, cache, config) - (auto-added by Kai)
+.kai/

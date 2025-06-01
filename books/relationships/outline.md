@@ -11,4 +11,7 @@
 *   Boundaries in relationships.
 *   Power dynamics within relationships.
 *   Healthy vs. Unhealthy/Harmful relationship patterns.
+    - Recognizing toxic dynamics (professional and personal).
+    - Dealing with criticism of being "idealistic" within relationship contexts.
 *   Starting, maintaining, and ending relationships.
+    - The strategic pragmatism of exiting harmful relationships/environments.
