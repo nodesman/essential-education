@@ -28,6 +28,7 @@
 
 ## Boundaries as a Strategic Imperative
 *   Defining boundaries as a proactive measure.
+    - Establishing clear limits and rules (your actions, what you allow) for interactions and resource protection.
 *   Setting and enforcing boundaries strategically.
 *   Boundaries for resource management (time, energy, focus).
 *   Boundaries in negotiations and interactions.

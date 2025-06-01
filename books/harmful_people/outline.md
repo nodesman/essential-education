@@ -16,6 +16,9 @@
 
 ## Part 2: The Role of Boundaries
 - What Are Boundaries?
+    - Comprehensive definition: Limits and rules for what you do/tolerate with whom/where.
+    - Two dimensions: Your own behavior (what you do/don't do) and what you allow from others.
+    - Internal vs. External boundaries.
 - Why Boundaries are Essential for Protection
 - Identifying Boundary Violations
 - Setting and Enforcing Healthy Boundaries

@@ -22,6 +22,7 @@ The primary goal is to provide a structured yet flexible environment to capture 
 ## Key Cross-Cutting Themes
 
 Certain concepts are expected to appear across multiple books. A significant example is **Boundaries** – understanding what they are, how to set them, why they are important (and contexts where they might seem less important), and how they relate to harmful interactions, strategic living, empathy, and relationships. Initial thoughts on Boundaries will be captured in `rough_notes/` and tagged for potential integration into various works or potentially forming the basis of a dedicated book later.
+A core understanding is that boundaries are the actively defined limits and rules individuals establish for their interactions and personal space, crucial for protecting oneself from harm and managing one's resources effectively.
 
 ## Workflow: Capturing and Refining Ideas
 
