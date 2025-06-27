@@ -16,6 +16,7 @@ The primary goal is to provide a structured yet flexible environment to capture 
     *   `empathy/`: Content exploring the nuances of empathy: what it is, what it isn't, its application, importance, and limitations.
     *   `relationships/`: Content focused on understanding and navigating various types of relationships.
     *   `diplomacy/`: Content exploring diplomacy as the art of managing relationships, conducting negotiations, and strategic communication, applicable from interpersonal interactions to broader contexts. Focuses on effectiveness, discernment in application, and ethical considerations.
+    *   `narrative_control/`: Content focused on understanding and managing narratives as a critical life skill for self-definition, defense, and influence.
     *   `(other_books...)/`: Placeholder for future book projects.
     *   Each book directory may contain an `outline.md` file for planning and Markdown files for chapters/sections as they develop.
 *   `wisdom_and_analysis/`: A dedicated space for personal thinking, reasoning, experiments, observations, and synthesizing wisdom. This area is for your own deeper exploration and may inform book content or stand alone as personal insights.
