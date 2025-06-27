@@ -13,6 +13,7 @@
 *   **Time:** Time as a finite resource, timing of actions.
 *   **Information:** Gathering, assessing, and using information strategically.
 *   **Relationships:** Networks, alliances, social capital as strategic assets (See dedicated section).
+*   **Diplomatic Skills:** Communication, negotiation, and tact as tools for strategic engagement.
 *   **(Other potential components: Energy, Focus, Reputation, Skills)**
 
 ## Recognizing Strategic Moves

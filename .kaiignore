@@ -1,1 +1,2 @@
 # Add patterns here to exclude files/directories from Kai's context (e.g., build/, *.log)
+bastardvinoth/*

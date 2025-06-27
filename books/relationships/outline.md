@@ -8,6 +8,7 @@
 *   The strategic component: Choosing and curating relationships.
 *   Expectations and agreements (explicit and implicit).
 *   Communication within relationships.
+    - Applying diplomatic skills for effective dialogue and understanding.
 *   Boundaries in relationships.
 *   Power dynamics within relationships.
 *   Healthy vs. Unhealthy/Harmful relationship patterns.

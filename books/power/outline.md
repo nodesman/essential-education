@@ -17,7 +17,7 @@
 *   Exploring different types of power (e.g., personal, social, resource-based, knowledge-based).
 *   How power is exercised consciously and unconsciously.
 
-## Part 3: Cultivating and Using Power (Placeholder)
+## Part 3: Cultivating, Using, and Responding to Power (Placeholder)
 
 *   How individuals can recognize and develop their own power.
 *   The link between action, consequence, and power.
@@ -28,4 +28,6 @@
 *   Relationship between Power and Strategic Action.
 *   Power dynamics in relationships.
 *   Power in relation to harm and boundaries.
+*   Diplomacy as a means of navigating power differentials and exercising influence.
 *   Power and empathy.
+```

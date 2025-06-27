@@ -12,6 +12,7 @@
 - Categories of Harm (Emotional, Psychological, Financial, Physical, Relational, Reputational)
 - Common Tactics and Manipulations
     - Weaponizing labels (e.g., calling targets "idealistic", "not pragmatic", "too sensitive")
+    - Superficial charm or feigned diplomacy to disarm or manipulate.
 - Red Flags and Early Warning Signs
 
 ## Part 2: The Role of Boundaries
@@ -23,9 +24,10 @@
 - Identifying Boundary Violations
 - Setting and Enforcing Healthy Boundaries
 
-## Part 3: Navigating Interactions
+## Part 3: Navigating Interactions and Protecting Yourself
 - Strategies for Disengagement
 - Managing Necessary Interactions
+    - Employing diplomatic approaches (and recognizing their limits and potential for exploitation).
 - Documentation and Seeking Support
     - The pragmatism of principled action and documentation
     - Navigating formal systems (HR, Legal) effectively

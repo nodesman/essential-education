@@ -15,6 +15,7 @@ The primary goal is to provide a structured yet flexible environment to capture 
     *   `power/`: Content defining and exploring power as the fundamental ability to act, impact, or cause change.
     *   `empathy/`: Content exploring the nuances of empathy: what it is, what it isn't, its application, importance, and limitations.
     *   `relationships/`: Content focused on understanding and navigating various types of relationships.
+    *   `diplomacy/`: Content exploring diplomacy as the art of managing relationships, conducting negotiations, and strategic communication, applicable from interpersonal interactions to broader contexts. Focuses on effectiveness, discernment in application, and ethical considerations.
     *   `(other_books...)/`: Placeholder for future book projects.
     *   Each book directory may contain an `outline.md` file for planning and Markdown files for chapters/sections as they develop.
 *   `wisdom_and_analysis/`: A dedicated space for personal thinking, reasoning, experiments, observations, and synthesizing wisdom. This area is for your own deeper exploration and may inform book content or stand alone as personal insights.
@@ -23,6 +24,7 @@ The primary goal is to provide a structured yet flexible environment to capture 
 ## Key Cross-Cutting Themes
 
 Certain concepts are expected to appear across multiple books. A significant example is **Boundaries** – understanding what they are, how to set them, why they are important (and contexts where they might seem less important), and how they relate to harmful interactions, strategic living, empathy, and relationships. Initial thoughts on Boundaries will be captured in `rough_notes/` and tagged for potential integration into various works or potentially forming the basis of a dedicated book later.
+Similarly, **Diplomacy** – viewed as a skill set for effective communication, negotiation, and relationship management – is a theme that will intersect with strategy, relationships, power dynamics, and even interactions with difficult individuals. It's about choosing appropriate methods of engagement.
 A core understanding is that boundaries are the actively defined limits and rules individuals establish for their interactions and personal space, crucial for protecting oneself from harm and managing one's resources effectively.
 
 ## Workflow: Capturing and Refining Ideas
