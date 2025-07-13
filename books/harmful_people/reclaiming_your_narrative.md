@@ -2,12 +2,14 @@
 
 After experiencing harm, especially from individuals who actively try to shape your reality, the story you tell yourself about what happened, who you are, and what your future holds becomes a critical battleground. Reclaiming your narrative is not about denying the past but about refusing to let the harm or the perpetrator define your present and future. It's about consciously taking back the pen and writing your own story of resilience and recovery.
 
-## Identifying and Acknowledging the Imposed Narrative
+## Identifying the Imposed Narrative and its Premise
 
-The first step is to clearly see the story or "premise" the harmful person or situation tried to force upon you.
+The first step is to clearly see the story the harmful person tried to force upon you and, more importantly, the fundamental **premise** upon which they based the relationship.
 *   What beliefs about yourself, your worth, or your capabilities did they try to instill?
 *   What distorted version of events did they present?
 *   How did their actions and words aim to control your perception of reality?
+*   What was the unspoken premise of the relationship they established? Was it one of equality and mutual respect, or one where you were expected to serve a function (e.g., as a resource, stabilizer, or target for their dysfunction) without complaint?
+*   Did they demand you live within their worldview, treating their opinions as facts and getting angry when you asserted your own sense of right and wrong?
     *   `[TO EXPAND: Techniques harmful people use to impose narratives, e.g., gaslighting, blame-shifting, constant criticism. Provide examples.]`
 
 ## Resisting Internalization and Deconstructing Falsehoods

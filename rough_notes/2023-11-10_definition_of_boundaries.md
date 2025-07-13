@@ -30,6 +30,8 @@ Clearly defined and consistently enforced boundaries are **essential for avoidin
 *   **Filtering Interactions:** Helping to determine who and what gets access to your time, energy, and personal space.
 *   **Signaling Expectations:** Communicating to others what is acceptable and unacceptable behavior.
 *   **Preventing Encroachment:** Protecting you from manipulation, exploitation, abuse, and other forms of harmful behavior.
+*   **Preserving Mental Autonomy:** Shielding you from psychological encroachment, such as attempts by others to impose their worldview or dictate your reality.
+*   **Stopping Enablement:** Serving as the primary mechanism to stop enabling another person's harmful, immature, or dysfunctional behavior by refusing to participate in or tolerate it.
 *   **Preserving Resources:** Guarding your emotional, mental, physical, and material resources from being depleted by others.
 *   **Maintaining Self-Respect and Agency:** Reinforcing your sense of self-worth and your right to determine your own experiences.
 

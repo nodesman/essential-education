@@ -29,5 +29,5 @@
 *   Power dynamics in relationships.
 *   Power in relation to harm and boundaries.
 *   Diplomacy as a means of navigating power differentials and exercising influence.
+*   Imposing worldviews: The use of power to control another's reality and moral framework.
 *   Power and empathy.
-```

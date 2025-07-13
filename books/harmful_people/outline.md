@@ -13,6 +13,9 @@
 - Common Tactics and Manipulations
     - Weaponizing labels (e.g., calling targets "idealistic", "not pragmatic", "too sensitive")
     - Superficial charm or feigned diplomacy to disarm or manipulate.
+    - Valuing a person for their function (resource, stabilizer) rather than their personhood.
+    - Imposing a harmful premise for the relationship (e.g., one of unequal value, service, or where your role is to tolerate disrespect).
+    - Imposing a personal worldview: Demanding you adopt their moral/factual reality and punishing dissent.
 - Red Flags and Early Warning Signs
 
 ## Part 2: The Role of Boundaries

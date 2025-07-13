@@ -17,6 +17,7 @@ The accusation of not being "pragmatic" often ignores the long-term consequences
 
 *   **Option A (The Accuser's "Pragmatism"):** Tolerate abuse, comply with unethical requests, avoid conflict at all costs, perhaps engage in minor compromises yourself. This *might* offer short-term survival within a specific toxic system, but often leads to burnout, complicity, damaged reputation, mental health issues, and ultimately, unsustainable outcomes.
 *   **Option B (Principled Action):** Recognize wrongdoing, refuse unethical demands, document facts, endure stress to seek accountability, set firm boundaries, potentially escalate the issue, and if necessary, exit the toxic environment. While often incredibly difficult and stressful in the short term, this path preserves integrity, can lead to actual resolution (like removing harmful actors), and secures long-term well-being and stability.
+    - Crucially, exiting a harmful dynamic is often the most humane action for all involved. It is an ethical act of self-preservation that also stops the enabling of another's dysfunction, which may be the only catalyst for their potential growth.
 
 Which is truly more pragmatic? **True pragmatism aims for sustainable, positive long-term outcomes.** Principled action, while demanding, is often the most genuinely pragmatic path toward lasting well-being and systemic correction.
 
