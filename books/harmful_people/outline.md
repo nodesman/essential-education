@@ -48,6 +48,8 @@
     - Identifying and acknowledging the narrative/premise imposed by the harmful person.
     - Resisting the internalization of premises set by harmful individuals.
         - Actively deconstructing and challenging the false or distorted elements of the imposed narrative.
+    - Rejecting Pressure to Forgive: Understanding that forgiveness is for those who acknowledge wrongdoing and change, not for those who continue harmful patterns.
+    - Validating Your Standards: Recognizing that maintaining professional/ethical standards isn't rigidity - it's the baseline expectation.
     - The immense effort involved (ref. "Don't let X define you" is not simple).
     - Consciously choosing a new, empowering perspective on the events and oneself.
     - Shifting focus from victimhood to survival, resilience, and agency demonstrated.

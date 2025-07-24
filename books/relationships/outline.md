@@ -26,3 +26,5 @@
     - Releasing yourself from a relationship with a broken premise.
     - The ethical duty to stop enabling: How remaining in a one-sided or harmful dynamic perpetuates dysfunction.
     - The strategic pragmatism of exiting harmful relationships/environments.
+    - Rejecting the Forgiveness Mandate: Understanding that you don't owe forgiveness to those who continue harmful patterns.
+    - Age/Habit as Explanation, Not Excuse: Why "that's just how they are" doesn't obligate tolerance.

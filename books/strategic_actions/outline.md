@@ -48,6 +48,8 @@
 *   The Strategic Risk of Internalizing "Idealism": How accepting labels like "naive" increases vulnerability to long-term harm. (Potential for timeline visualization).
 *   Principled Effectiveness: Why ethical approaches can be the most pragmatic long-term.
 *   Countering manipulative claims of "idealism" vs. "pragmatism": Recognizing the attack and defending principled action as strategically sound.
+*   The Strategic Value of Accountability: Why enforcing consequences for harmful behavior is more pragmatic than accommodation.
+*   Standards as Strategy: Maintaining professional standards isn't inflexibility - it's strategic boundary setting.
 
 ## Conclusion
 *   Integrating strategic thinking into daily life.
