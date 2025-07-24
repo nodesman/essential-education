@@ -1,6 +1,7 @@
 # Outline: Harmful People
 
 ## Introduction
+- **See `introduction.md` for the full text.**
 - Defining the Scope: Why understanding harmful people/behavior is critical.
 - The Spectrum of Harm: Beyond criminal acts - subtle to severe impacts (financial ruin, loss of life/opportunity).
 - Actions Within Legal/Ethical Grey Areas: Recognizing harm even when not illegal.
