@@ -12,6 +12,7 @@
 - What Constitutes Harmful Behavior? (Intent vs. Impact)
 - Categories of Harm (Emotional, Psychological, Financial, Physical, Relational, Reputational)
 - Common Tactics and Manipulations
+    - The Quiet Attack: Recognizing that abuse is not always loud or angry, but can be delivered calmly, matter-of-factly, or with a smile.
     - Weaponizing labels (e.g., calling targets "idealistic", "not pragmatic", "too sensitive")
     - Superficial charm or feigned diplomacy to disarm or manipulate.
     - Valuing a person for their function (resource, stabilizer) rather than their personhood.
