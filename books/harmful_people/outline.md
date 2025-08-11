@@ -44,13 +44,17 @@
         - **The Outcome:** The system, when presented with a clear, evidence-based case, is compelled to act. The manager is removed, not because of a complex political battle, but because one person had the clarity to frame the behavior for what it was. This demonstrates that confidence in objective standards can be the most potent tool for forcing accountability.
 - Understanding When Legal/Formal Action is Relevant
 
-## Part 4: Underlying Dynamics (Potential Areas)
+## Part 4: The Foundational Skill: Normative Clarity
+- **See `normative_clarity_introduction.md` for the full text.**
+- **See `case_study_normative_clarity.md` for detailed case studies.**
+
+## Part 5: Underlying Dynamics (Potential Areas)
 - Power Dynamics in Harmful Relationships
 - Empathy Deficits (Overlap with Empathy Book?)
 - Environmental/Systemic Factors
 - Understanding perpetrator psychology (briefly, to aid understanding, not to excuse)
 
-## Part 5: Aftermath - Healing and Rebuilding
+## Part 6: Aftermath - Healing and Rebuilding
 - The Process of Recovery: Acknowledging the impact.
 - Reclaiming Your Narrative: Not letting the harm or person define you.
     - Identifying and acknowledging the narrative/premise imposed by the harmful person.
