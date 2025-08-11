@@ -18,6 +18,7 @@
     - Valuing a person for their function (resource, stabilizer) rather than their personhood.
     - Imposing a harmful premise for the relationship (e.g., one of unequal value, service, or where your role is to tolerate disrespect).
     - Imposing a personal worldview: Demanding you adopt their moral/factual reality and punishing dissent.
+    - The "Nice" Attacker: Recognizing that harmful people often have families, friends, and an endearing public persona, which they and their enablers use as a shield.
 - Red Flags and Early Warning Signs
 
 ## Part 2: The Role of Boundaries
@@ -57,6 +58,7 @@
     - Shifting focus from victimhood to survival, resilience, and agency demonstrated.
     - Externalizing blame: Correctly attributing responsibility for the harm to the perpetrator.
     - Integrating the experience: Viewing the event as *an* experience, not *the* defining experience.
+    - Deconstructing Moral Blackmail: Rejecting responsibility for consequences to the perpetrator's family, and axiomatically rejecting all justifications for wrongdoing (e.g., age, hardship).
     - Crafting a future-oriented narrative that emphasizes growth, learning, and strength.
     - Gaining distance (temporal, emotional, physical): Creating space to see events with a fresh mind and reduced emotional intensity.
     - Somatic and emotional processing: Allowing the body and emotions to release the old narrative and integrate the new, positive one.

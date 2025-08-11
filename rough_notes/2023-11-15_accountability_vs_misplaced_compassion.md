@@ -33,9 +33,15 @@ The fact that systems (HR, legal, organizational) ultimately side with the perso
 
 Age and habit don't create a right to harm others. They create a responsibility to either adapt or accept the consequences of refusing to do so.
 
+## The Fallacy of Ill-Gotten Sustenance
+
+The offender has no moral claim to any benefit—sustenance, stability, or comfort—that was acquired or maintained through their harmful actions. These are ill-gotten gains.
+
+You should never allow someone to enjoy ill-gotten sustenance, even if they claim that, without it, they would face dire personal consequences (e.g., terminal illness, financial ruin for their family). Your moral obligation is to truth and justice, not to preserving a peace built on your suffering. Their hardship is the result of their choices, not your pursuit of accountability.
+
 ---
 Potential Placement:
 - [Book: Harmful People] Chapter: Aftermath/Recovery - Rejecting Pressure to Forgive
-- [Book: Empathy] Chapter: Limitations of Empathy - When Empathy Enables Harm  
+- [Book: Empathy] Chapter: Limitations of Empathy - When Empathy Enables Harm
 - [Book: Strategic Actions] Chapter: Ethics in Strategic Action - Standards as Strategy
 - [Book: Relationships] Chapter: Ending Relationships - The Ethics of Accountability
