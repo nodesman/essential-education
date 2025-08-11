@@ -37,6 +37,11 @@
 - Documentation and Seeking Support
     - The pragmatism of principled action and documentation
     - Navigating formal systems (HR, Legal) effectively
+        - **See `case_study_normative_clarity.md` for the full text.**
+        - **Case Study Summary: The Power of Normative Clarity.** An individual faces a manager who exhibits unacceptable behavior (e.g., yelling, public domination of subordinates). While colleagues are hesitant or unsure, this individual possesses a clear, unwavering understanding of professional norms—that such behavior is objectively unacceptable and that their own questions or pushback are valid.
+        - **The Core Advantage:** This clarity is not idealism; it is a strategic advantage. It prevents the gaslighting and reality-distortion common in such power dynamics. The individual does not question their own perception, freeing them to act decisively.
+        - **The Action:** Armed with this confidence, the individual navigates the appropriate formal channels (e.g., HR). They present the issue not as a personal grievance, but as a clear violation of established professional conduct.
+        - **The Outcome:** The system, when presented with a clear, evidence-based case, is compelled to act. The manager is removed, not because of a complex political battle, but because one person had the clarity to frame the behavior for what it was. This demonstrates that confidence in objective standards can be the most potent tool for forcing accountability.
 - Understanding When Legal/Formal Action is Relevant
 
 ## Part 4: Underlying Dynamics (Potential Areas)
