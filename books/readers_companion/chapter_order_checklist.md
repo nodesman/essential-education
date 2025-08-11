@@ -8,7 +8,8 @@ Use this checklist to reorder the chapters of the book to your preferred logical
 - [ ] **Chapter 4:** A Clarification on Power
 - [ ] **Chapter 5:** On the Importance of Context and Culture
 - [ ] **Chapter 6:** Who Is the "Good-Faith Actor"?
-- [ ] **Chapter 7:** Conclusion: A Final Word on the Practice of Wisdom
+- [ ] **Chapter 7:** A Note on the Author and the Intent of This Work
+- [ ] **Chapter 8:** Conclusion: A Final Word on the Practice of Wisdom
 
 ---
 **Instructions:**

@@ -47,6 +47,9 @@
 *   Defining the "good-faith actor" as someone whose actions are aimed at creating positive-sum outcomes, even when in conflict.
 *   A guide for self-reflection: How can the reader ensure they are remaining a good-faith actor while using these powerful tools?
 
+## Chapter 7: A Note on the Author and the Intent of This Work
+- **See `chapter_author_and_intent.md` for the full text.**
+
 ## Conclusion: A Final Word on the Practice of Wisdom
 
 *   A summary of the ethical framework of the "Essential Education" project.
