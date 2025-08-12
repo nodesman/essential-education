@@ -56,14 +56,20 @@
     *   Delivering difficult messages constructively.
     *   Dealing with ultimatums or aggressive tactics diplomatically.
 
-*   **Chapter 8: Building and Leveraging Alliances, Networks, and Relationships**
+*   **Chapter 8: Diplomacy as an Engine for Opportunity**
+    *   Connecting Diplomacy to the "Chasm Framework" from *Start Here*.
+    *   Using diplomatic skills to investigate and validate a perceived opportunity (e.g., a "Value Chasm" in a potential business partner).
+    *   Case Study: Using the techniques from this book to build a coalition to solve an "Execution Chasm" within an organization.
+    *   Negotiating the resources and support needed to act on an "Unclaimed Opportunity."
+
+*   **Chapter 9: Building and Leveraging Alliances, Networks, and Relationships**
     *   The strategic value of relationships in diplomatic efforts.
     *   Cultivating trust and rapport ethically.
     *   Leveraging networks for influence, information, and support.
 
 ## Part 4: Diplomacy in Practice: Contexts and Limitations
 
-*   **Chapter 9: Diplomacy in Personal, Professional, and Community Life**
+*   **Chapter 10: Diplomacy in Personal, Professional, and Community Life**
     *   Applying diplomatic principles in:
         *   Workplace dynamics (colleagues, superiors, subordinates).
         *   Family and personal relationships.
@@ -71,13 +77,13 @@
     *   Using diplomacy for advocacy (self and others).
     *   Making requests and saying "no" diplomatically.
 
-*   **Chapter 10: When Diplomacy Fails or Reaches Its Limits**
+*   **Chapter 11: When Diplomacy Fails or Reaches Its Limits**
     *   Recognizing situations where diplomacy is unlikely to succeed (linking back to Ch. 5).
     *   The role of power and leverage when diplomacy isn't enough.
     *   Transitioning to other strategies (e.g., direct action, disengagement, formal escalation).
     *   Ethical considerations when diplomacy is exhausted.
 
-*   **Chapter 11: The Ethics of Diplomacy in Everyday Life**
+*   **Chapter 12: The Ethics of Diplomacy in Everyday Life**
     *   Balancing personal/group interests with broader ethical concerns.
     *   The line between strategic persuasion and manipulation.
     *   Responsibility and accountability in your interactions.

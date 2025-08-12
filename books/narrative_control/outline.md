@@ -53,19 +53,25 @@
     *   Strategic Storytelling: Using narrative to persuade and influence (in leadership, job interviews, advocacy).
     *   Consistency and authenticity as the foundation of a believable narrative.
 
-*   **Chapter 9: Strategic Narrative Management**
+*   **Chapter 9: The Narrative of the Contrarian: Defending an Unclaimed Opportunity**
+    *   Connecting Narrative Control to the "Unclaimed Opportunity" framework from *Start Here*.
+    *   Why pursuing a true opportunity often requires facing ridicule and skepticism.
+    *   Crafting a narrative of conviction: How to articulate your contrarian vision to yourself and others (allies, investors).
+    *   Building a "reality distortion field" ethically: Maintaining psychological resilience when the mainstream narrative contradicts your data-driven insights.
+
+*   **Chapter 10: Strategic Narrative Management**
     *   Aligning your personal narrative with your life goals (career, relationships, etc.).
     *   Navigating competing narratives in groups and organizations.
     *   Mastering narrative timing: Knowing when to speak, when to be silent, and when to listen.
 
 ## Part 4: The Ethics of Narrative Control
 
-*   **Chapter 10: The Line Between Influence and Manipulation**
+*   **Chapter 11: The Line Between Influence and Manipulation**
     *   Ethical persuasion vs. deceit and distortion.
     *   The responsibility that comes with being a powerful narrator.
     *   Case studies: Analyzing ethical and unethical uses of narrative control.
 
-*   **Chapter 11: Building Narrative Resilience**
+*   **Chapter 12: Building Narrative Resilience**
     *   Identifying and countering harmful societal narratives (misinformation, propaganda, etc.).
     *   Cultivating a "critical narrative consciousness" in a complex world.
 
