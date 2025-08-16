@@ -7,6 +7,10 @@
 *   Distinguishing strategic action from mere activity or reaction.
 *   (Connection to Power: Strategy as a way to apply power effectively)
 
+## Chapter 1: The Architecture of Action
+*   The sequence: Thought → Clarity → Intention → Action → Reality.
+*   Mastering the internal process before external execution.
+
 ## Core Strategic Components & Resources
 *   **Money:** Understanding money beyond currency - as leverage, tool, access, security.
 *   **Risk:** Assessing, managing, and leveraging risk. Calculated risk vs. recklessness.
@@ -33,6 +37,12 @@
 *   Setting and enforcing boundaries strategically.
 *   Boundaries for resource management (time, energy, focus).
 *   Boundaries in negotiations and interactions.
+
+## Chapter X: Calibrating Your Internal Compass
+*   **The Necessity of Sampling Life:** Understanding your capabilities, limitations, and genuine preferences through active exploration.
+*   **Domains of Discovery:** Applying the sampling mindset to relationships, skills, hobbies, experiences, and environments.
+*   **The Strategic Value of Delay:** Recognizing that some decisions are best made *after* sufficient data has been gathered. Knowing when not to act is as important as knowing when to act.
+*   **Avoiding Misaligned Pursuits:** How self-knowledge prevents wasting time and energy on goals that are fundamentally unsuited to you.
 
 ## Developing Strategic Thinking
 *   Moving from reactive to proactive.
