@@ -11,6 +11,12 @@
     - Defining the unspoken, foundational assumptions of a relationship (e.g., equality, service, mutual growth).
     - Recognizing when premises are misaligned or fundamentally unacceptable.
     - The unsustainability of relationships built on a broken premise.
+*   Core Components of a Healthy Relationship:
+    -   **Shared Reality:** A mutual acknowledgment of objective facts.
+    -   **Trust:** Reliability, predictability, and confidence in a partner's character and actions.
+    -   **Respect:** Valuing a person's autonomy, opinions, and boundaries.
+    -   **Mutual Liking & Affection:** Genuine fondness and positive regard for one another.
+    -   **Effective Communication:** The ability to convey and receive information and feelings clearly and constructively.
 *   Communication within relationships.
     - Applying diplomatic skills for effective dialogue and understanding.
 *   Boundaries in relationships.
