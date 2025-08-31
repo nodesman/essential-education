@@ -1,4 +1,4 @@
-# Chapter 6: The First Ally: Your Boss
+# Chapter 7: The First Ally: Your Boss
 
 In any new system you join, there is one component that will have a disproportionate impact on your success or failure: your direct manager. Your relationship with your boss is not just another professional connection; it is the primary lens through which your work will be judged and your value will be communicated to the wider organization.
 

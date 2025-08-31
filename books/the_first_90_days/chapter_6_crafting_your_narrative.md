@@ -1,4 +1,4 @@
-# Chapter 5: Crafting Your Proactive Narrative
+# Chapter 6: Crafting Your Narrative
 
 As you spend your first few weeks observing the system, the system is also observing you. Your new colleagues and your manager are trying to figure out who you are. They will ask you, directly or indirectly, a simple question: "So, what's your story?"
 

@@ -1,0 +1,104 @@
+site_name: Essential Education
+site_description: A library for agency, strategy, and ethical power.
+docs_dir: .
+
+# Theme: use Material if available; otherwise MkDocs falls back to default.
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - def_list
+  - attr_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Start Here:
+      - Introduction: books/start_here/introduction.md
+      - Chapter 1: The Path of Agency: books/start_here/chapter_1_the_path_of_agency.md
+      - Chapter 1: The Walls Closing In: books/start_here/chapter_1_the_walls_closing_in.md
+      - Chapter 2: A Library, Not a Novel: books/start_here/chapter_2_a_library_not_a_novel.md
+      - Chapter 2: The Unclaimed Opportunity: books/start_here/chapter_2_the_unclaimed_opportunity.md
+      - Chapter 3: The Crucible: books/start_here/chapter_3_the_crucible.md
+      - Chapter 4: A Guide to the Series: books/start_here/chapter_4_a_guide_to_the_series.md
+      - Chapter 5: The World in Systems: books/start_here/chapter_5_the_world_in_systems.md
+      - Unit 1: The Two Arts of Strategic Foresight: books/start_here/unit_1_introduction.md
+      - Conclusion: books/start_here/conclusion.md
+      - Outline: books/start_here/outline.md
+  - Strategic Actions:
+      - Introduction: books/strategic_actions/introduction.md
+      - Chapter 1: The Architecture of Action: books/strategic_actions/chapter_1_the_architecture_of_action.md
+      - Chapter 2: The Slow Poison: books/strategic_actions/chapter_2_the_slow_poison.md
+      - Ethics: Idealism vs Principled: books/strategic_actions/ethics_idealism_vs_principled.md
+      - Chapter X: Developing Your Information Diet: books/strategic_actions/chapter_X_developing_your_information_diet.md
+      - Chapter X: The Chasm Framework: books/strategic_actions/chapter_X_the_chasm_framework.md
+      - Chapter X: The Opportunity Ledger: books/strategic_actions/chapter_X_the_opportunity_ledger.md
+      - Chapter X: The Self-Respect Protocol: books/strategic_actions/chapter_X_the_self_respect_protocol.md
+      - Outline: books/strategic_actions/outline.md
+  - The First 90 Days:
+      - Introduction: books/the_first_90_days/introduction.md
+      - Chapter 1: Seeing the Real System: books/the_first_90_days/chapter_1_seeing_the_real_system.md
+      - Chapter 2: Decoding Cultural Fit: books/the_first_90_days/chapter_2_decoding_cultural_fit.md
+      - Chapter 3: Normative Clarity Audit: books/the_first_90_days/chapter_3_normative_clarity_audit.md
+      - Chapter 4: Go/No-Go Decision: books/the_first_90_days/chapter_4_go_no_go_decision.md
+      - Chapter 5: Confirming the Diagnosis: books/the_first_90_days/chapter_5_confirming_the_diagnosis.md
+      - Chapter 6: Crafting Your Narrative: books/the_first_90_days/chapter_6_crafting_your_narrative.md
+      - Chapter 7: The First Ally: books/the_first_90_days/chapter_7_the_first_ally.md
+      - Chapter 8: Securing an Early Win: books/the_first_90_days/chapter_8_securing_an_early_win.md
+      - Chapter 9: Setting Strategic Boundaries: books/the_first_90_days/chapter_9_setting_strategic_boundaries.md
+      - Chapter 10: Building Your Alliance Network: books/the_first_90_days/chapter_10_building_your_alliance_network.md
+      - Conclusion: books/the_first_90_days/conclusion.md
+      - Outline: books/the_first_90_days/outline.md
+  - Harmful People:
+      - Introduction: books/harmful_people/introduction.md
+      - Normative Clarity: Introduction: books/harmful_people/normative_clarity_introduction.md
+      - The Assault on Shared Reality: books/harmful_people/the_assault_on_shared_reality.md
+      - Reclaiming Your Narrative: books/harmful_people/reclaiming_your_narrative.md
+      - Case Study: Normative Clarity: books/harmful_people/case_study_normative_clarity.md
+      - Chapter 1: A Neuro-Safety Imperative: books/harmful_people/chapter_1_a_neuro_safety_imperative.md
+      - Chapter 2: The Long-Term Erosion: books/harmful_people/chapter_2_the_long_term_erosion.md
+      - Chapter 5: The Baseline of Respect: books/harmful_people/chapter_5_the_baseline_of_respect.md
+      - Outline: books/harmful_people/outline.md
+  - Relationships:
+      - Outline: books/relationships/outline.md
+      - Chapter 1: Shared Reality: books/relationships/chapter_1_shared_reality.md
+      - Chapter 2: Core Components: books/relationships/chapter_2_core_components.md
+  - Narrative Control:
+      - Outline: books/narrative_control/outline.md
+      - Proactive Narration: books/narrative_control/proactive_narration.md
+  - AI:
+      - Outline: books/ai/outline.md
+      - Words as Scaffolding: books/ai/01_words_as_scaffolding.md
+  - Power:
+      - Outline: books/power/outline.md
+  - Survival:
+      - Outline: books/survival/outline.md
+      - War: books/survival/chapter_war.md
+  - Diplomacy:
+      - Outline: books/diplomacy/outline.md
+  - Empathy:
+      - Outline: books/empathy/outline.md
+  - Reader's Companion:
+      - Outline: books/readers_companion/outline.md
+      - Author and Intent: books/readers_companion/chapter_author_and_intent.md
+      - Order Checklist: books/readers_companion/chapter_order_checklist.md
+  - Stories:
+      - Narrative Control: Defending Reality: docs/stories/narrative_control_defending_reality.md
+      - Relationships: Shared Reality: docs/stories/relationships_shared_reality.md
+      - Harmful People: Assault on Reality: docs/stories/harmful_people_assault_on_reality.md
+  - Interactive Simulations:
+      - Overview: interactive_simulations/README.md
+      - Workplace Simulation Design: interactive_simulations/workplace_simulation_design.md
+      - Workplace Simulation Prototype: interactive_simulations/workplace_simulation/index.html
+  - Wisdom & Analysis:
+      - Overview: wisdom_and_analysis/README.md
+      - On Progress and Paying Attention: wisdom_and_analysis/on_progress_and_paying_attention.md
+

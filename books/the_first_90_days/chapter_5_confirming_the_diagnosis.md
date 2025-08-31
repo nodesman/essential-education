@@ -1,4 +1,4 @@
-# Chapter 4: Your New Job: Confirming the Diagnosis
+# Chapter 5: Confirming the Diagnosis
 
 You have made the decision. You have accepted the offer. Your first day has arrived. The temptation is to dive in, to start "doing things," to prove your worth immediately. This is a mistake.
 

@@ -1,4 +1,4 @@
-# Chapter 3: The Go/No-Go Decision
+# Chapter 4: Go/No-Go Decision
 
 You have completed the intelligence-gathering phase. You have a folder of notes, a list of observations, and three distinct pictures: the company's official story (Stated Norms), its likely reality (Prevailing Norms), and your own personal requirements (Principled Norms). Now comes the most important part of the pre-game: the analysis and the decision.
 

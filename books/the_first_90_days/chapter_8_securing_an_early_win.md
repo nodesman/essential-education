@@ -1,4 +1,4 @@
-# Chapter 7: Securing an Early Win
+# Chapter 8: Securing an Early Win
 
 You have spent your first 30 days observing, learning, and aligning. You have a clear diagnosis of the system and have begun to build a crucial alliance with your manager. Now, in the 30-to-60-day window, it is time to translate that understanding into tangible value. It is time to secure an early win.
 

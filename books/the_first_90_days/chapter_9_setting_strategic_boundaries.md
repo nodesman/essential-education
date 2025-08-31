@@ -1,4 +1,4 @@
-# Chapter 8: Setting Strategic Boundaries
+# Chapter 9: Setting Strategic Boundaries
 
 After you have secured an early win, you will have something more valuable than a paycheck: credibility. Credibility is a form of capital. You can now spend that capital to achieve other strategic objectives. One of the first and most important of these is the establishment of healthy boundaries.
 

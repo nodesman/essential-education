@@ -1,4 +1,4 @@
-# Chapter 2: The Normative Clarity Audit
+# Chapter 3: Normative Clarity Audit
 
 Now that you have embraced your mission as an intelligence operative, you need a methodology. The Normative Clarity Audit is your systematic framework for investigating a potential employer. It is designed to help you peel back the layers of the organization and understand its true nature.
 
