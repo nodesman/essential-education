@@ -10,7 +10,13 @@ The first step is to clearly see the story the harmful person tried to force upo
 *   How did their actions and words aim to control your perception of reality?
 *   What was the unspoken premise of the relationship they established? Was it one of equality and mutual respect, or one where you were expected to serve a function (e.g., as a resource, stabilizer, or target for their dysfunction) without complaint?
 *   Did they demand you live within their worldview, treating their opinions as facts and getting angry when you asserted your own sense of right and wrong?
-    *   `[TO EXPAND: Techniques harmful people use to impose narratives, e.g., gaslighting, blame-shifting, constant criticism. Provide examples.]`
+    *   **Ambiguity Injection:** Withholding clarity, offering shifting stories, and refusing to commit to a single account—raising your cognitive load.
+    *   **Responsibility Evasion:** “I didn’t say that,” “You misunderstood,” or “Let’s not label it.” Repair stays impossible while uncertainty persists.
+    *   **Unpredictability Cycling:** Alternating warmth and withdrawal so you waste energy forecasting which version of them you’ll face.
+    *   **Gaslighting & Blame-Shifting:** Making you doubt your memory or feel responsible for their actions.
+    *   **Constant Criticism:** A steady drip that erodes confidence until their narrative feels more credible than your own.
+
+    These patterns add up to **cognitive load theft**: a deliberate occupation of your working memory that prevents clear thinking about anything else.
 
 ## Resisting Internalization and Deconstructing Falsehoods
 

@@ -10,4 +10,5 @@
 - [ ] The chapter explicitly links the *absence* of shared reality to emotional and psychological abuse.
 - [ ] It defines gaslighting as the primary mechanism for attacking shared reality.
 - [ ] It reframes the denial of facts not as a disagreement, but as a calculated act of control.
+- [ ] It highlights how engineered ambiguity steals cognitive space—uncertainty itself is part of the harm.
 - [ ] It provides illustrative examples or case studies of this behavior in action.

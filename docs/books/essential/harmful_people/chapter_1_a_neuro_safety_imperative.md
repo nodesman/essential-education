@@ -16,6 +16,10 @@ This is not an exaggeration; it is a biological reality. Prolonged exposure to t
 
 You cannot "think" a broken bone back into place, and you cannot simply "will" a dysregulated nervous system back into balance. This is a physiological injury.
 
+### Uncertainty as Harm: The Cognitive Load Theft
+
+Harmful people don’t merely attack once; they keep you off-balance. By dodging responsibility and injecting ambiguity, they create confusion and unpredictability—stealing your cognitive bandwidth. This “uncertainty tax” forces continual vigilance, rumination, and decision fatigue. Elevated cognitive load is a physiological stressor: it drags focus away from creativity and learning into defensive monitoring. Reducing exposure to engineered uncertainty is therefore an act of neurological self-defense.
+
 ## Why "Positive Thinking" and Conventional Therapy Can Fail
 
 This neurological reality is why simplistic solutions like "thinking positively" are not only ineffective but insulting. It's also why cognitive therapies can fail. Cognitive therapy is a "software" approach, but it cannot run on "hardware" that is stuck in survival mode. The person is not failing therapy; the therapy is failing to address the underlying injury.

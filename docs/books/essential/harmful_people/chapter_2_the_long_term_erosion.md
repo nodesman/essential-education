@@ -2,6 +2,8 @@
 
 The immediate neurological impact of harmful behavior is only one part of the threat. The other, equally dangerous part is the slow, chronic erosion that unfolds over years, sometimes even decades. This long-term decay is insidious because it happens so gradually that you may not notice it until the damage is profound.
 
+Before we examine the mechanics, note that harm travels on multiple channels: **material, emotional, cognitive, and temporal**. Money lost can be repaid, but years of stolen attention—and the decisions deferred because your mind was busy parsing someone else’s ambiguity—may never be recovered. The cognitive channel is easy to overlook, yet it is where uncertainty, confusion, and responsibility-evasion quietly siphon off your focus and creative energy.
+
 It operates through two interconnected mechanisms:
 
 ## 1. The Normalization of Harm

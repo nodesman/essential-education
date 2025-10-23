@@ -15,6 +15,7 @@
 - The neurological injury caused by prolonged exposure to harmful behavior (amygdala, prefrontal cortex, hippocampus).
 - Why "positive thinking" and conventional therapy can fail in the face of physiological damage.
 - The logical imperative of avoidance and, when necessary, medical intervention.
+- **Core Principle:** Uncertainty itself is a channel of harm; clarity and predictability are forms of safety.
 
 ### Chapter 2: The Long-Term Erosion: Normalization and the Insidious Decline
 - **See `chapter_2_the_long_term_erosion.md` for the full text.**
@@ -24,7 +25,7 @@
 
 ## Part 2: Defining and Recognizing Harm
 - What Constitutes Harmful Behavior? (Intent vs. Impact)
-- Categories of Harm (Emotional, Psychological, Financial, Physical, Relational, Reputational)
+- Categories of Harm (Material, Emotional, **Cognitive**, Temporal, Psychological, Financial, Physical, Relational, Reputational)
 - Common Tactics and Manipulations
     - **The Loop of Tolerated Disrespect:** The core mechanism of psychological harm.
         - External reinforcement: Teaching the target that disrespect is permissible.
