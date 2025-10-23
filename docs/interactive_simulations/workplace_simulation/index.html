@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workplace Simulation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="game-container">
+        <header>
+            <h1>Day <span id="day-counter">1</span></h1>
+            <div id="player-stats">
+                <span>Action Points: <span id="action-points">3</span></span>
+                <span>Reputation: <span id="reputation">100</span></span>
+            </div>
+        </header>
+        <main id="main-content">
+            <div id="log-panel">
+                <h2>Daily Log</h2>
+                <div id="log-entries"></div>
+            </div>
+            <div id="actions-panel">
+                <h2>Actions</h2>
+                <button class="action-btn" data-action="read_emails">Read Emails</button>
+                <button class="action-btn" data-action="attend_meeting">Attend Meeting</button>
+                <button class="action-btn" data-action="talk_colleague">Talk to a Colleague</button>
+                <button class="action-btn" data-action="work_on_tasks">Work on Tasks</button>
+                <button class="action-btn" data-action="document_incident">Document an Incident</button>
+            </div>
+        </main>
+        <footer>
+            <button id="next-day-btn">End Day</button>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
