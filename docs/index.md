@@ -1,12 +1,19 @@
-# Essential Education
+---
+layout: default
+title: "Essential Education Library"
+nav_order: 1
+has_children: true
+---
+
+# Essential Education Library
 
 Welcome. This site organizes the Essential Education library into clear sections so you can read, navigate, and cross-reference the books easily.
 
 Start with Start Here for the orientation, then branch into the books most relevant to your immediate goals.
 
-## Quick Links
+## Choose Your Learning Track
 
-- Start Here: books/start_here/introduction.md
+- Beginner Track → [Overview](beginner/README.md)
 - Strategic Actions: books/strategic_actions/introduction.md
 - The First 90 Days: books/the_first_90_days/introduction.md
 - Harmful People: books/harmful_people/introduction.md
