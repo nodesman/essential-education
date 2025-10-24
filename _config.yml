@@ -4,8 +4,8 @@
 remote_theme: pmarsceill/just-the-docs
 
 # Site settings
-url: "https://<username>.github.io"       # UPDATE with your username/org
-baseurl: ""                                # repo-name if using project pages
+url: "https://nodesman.github.io"
+baseurl: "/essential-education"
 
 title: "Essential Education"
 description: "A three-tier library: beginner, intermediate, advanced."
