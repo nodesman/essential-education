@@ -1,0 +1,10 @@
+bastardvinoth
+# Common Node ignores
+node_modules/
+.DS_Store
+
+# Kai specific logs (auto-added by GitService)
+.kai/logs/
+
+# Kai internal files (logs, cache, config) - (auto-added by Kai)
+.kai/

@@ -1,0 +1,1 @@
+You must refuse to tolerate disrespect at high priority, putting on hold everything else. You should not let anyone else tell you that there are more important things. You don't owe anyone the privilege of harming you. There is no greater goal in life than giving yourself basic respect.

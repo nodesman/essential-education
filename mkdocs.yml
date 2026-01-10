@@ -1,0 +1,151 @@
+site_name: Essential Education
+site_description: A library for agency, strategy, and ethical power.
+docs_dir: docs
+
+# Theme: use Material if available; otherwise MkDocs falls back to default.
+theme:
+  name: material
+
+markdown_extensions:
+  - admonition
+  - def_list
+  - attr_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Start Here:
+      - Introduction: books/start_here/introduction.md
+      - "Chapter 1: The Path of Agency": books/start_here/chapter_1_the_path_of_agency.md
+      - "Chapter 1: The Walls Closing In": books/start_here/chapter_1_the_walls_closing_in.md
+      - "Chapter 2: A Library, Not a Novel": books/start_here/chapter_2_a_library_not_a_novel.md
+      - "Chapter 2: The Unclaimed Opportunity": books/start_here/chapter_2_the_unclaimed_opportunity.md
+      - "Chapter 3: The Crucible": books/start_here/chapter_3_the_crucible.md
+      - "Chapter 4: A Guide to the Series": books/start_here/chapter_4_a_guide_to_the_series.md
+      - "Chapter 5: The World in Systems": books/start_here/chapter_5_the_world_in_systems.md
+      - "Chapter 6: A Spectrum of Culpability": books/start_here/chapter_6_a_spectrum_of_culpability.md
+      - "Unit 1: The Two Arts of Strategic Foresight": books/start_here/unit_1_introduction.md
+      - Conclusion: books/start_here/conclusion.md
+      - Outline: books/start_here/outline.md
+  - Mental Fitness: A Practical Guide to Seeing Clearly, Thinking Strategically, and Acting Decisively:
+      - Introduction: books/mental_fitness/introduction.md
+      - "Chapter 1: Food, Water, and Clear Thinking": books/mental_fitness/chapter_01_food_water_and_clear_thinking.md
+      - "Chapter 2: Why Sleep is a Strategic Weapon": books/mental_fitness/chapter_02_why_sleep_is_a_strategic_weapon.md
+      - "Chapter 3: How Exercise Builds a Better Brain": books/mental_fitness/chapter_03_how_exercise_builds_a_better_brain.md
+      - "Chapter 4: Designing Your Space for Focus": books/mental_fitness/chapter_04_designing_your_space_for_focus.md
+      - "Chapter 5: Your Feelings Are Not a Choice, Your Actions Are": books/mental_fitness/chapter_05_your_feelings_are_not_a_choice_your_actions_are.md
+      - "Chapter 6: How to Choose Your Problems Wisely": books/mental_fitness/chapter_06_how_to_choose_your_problems_wisely.md
+      - "Chapter 7: Protecting Your Mind from Junk Information": books/mental_fitness/chapter_07_protecting_your_mind_from_junk_information.md
+      - "Chapter 8: How to Be Honest with Yourself": books/mental_fitness/chapter_08_how_to_be_honest_with_yourself.md
+      - "Chapter 9: How to Break Down Any Problem": books/mental_fitness/chapter_09_how_to_break_down_any_problem.md
+      - "Chapter 10: Thinking Ahead: The Consequences of Consequences": books/mental_fitness/chapter_10_thinking_ahead_the_consequences_of_consequences.md
+      - "Chapter 11: How to Use Mental Models to Make Better Decisions": books/mental_fitness/chapter_11_how_to_use_mental_models_to_make_better_decisions.md
+      - "Chapter 12: How to Challenge Your Own Assumptions": books/mental_fitness/chapter_12_how_to_challenge_your_own_assumptions.md
+      - Outline: books/mental_fitness/outline.md
+  - Deception:
+      - Introduction: books/deception/introduction.md
+      - "Chapter 1: The Spectrum of Untruth": books/deception/chapter_01_spectrum_of_untruth.md
+      - "Chapter 2: The Evolutionary Advantage of Deceit": books/deception/chapter_02_evolutionary_advantage.md
+      - "Chapter 3: The Social Contract of Truth": books/deception/chapter_03_social_contract_of_truth.md
+      - "Chapter 4: The Currency of Credibility": books/deception/chapter_04_currency_of_credibility.md
+      - "Chapter 5: Deception by Omission": books/deception/chapter_05_deception_by_omission.md
+      - "Chapter 6: Deception by Commission": books/deception/chapter_06_deception_by_commission.md
+      - "Chapter 7: Paltering & Misdirection": books/deception/chapter_07_paltering.md
+      - "Chapter 8: Gaslighting": books/deception/chapter_08_gaslighting.md
+      - "Chapter 9: The Performance of Honesty": books/deception/chapter_09_performance_of_honesty.md
+      - "Chapter 10: Ideological Deception": books/deception/chapter_10_ideological_deception.md
+      - "Chapter 11: Beyond Body Language": books/deception/chapter_11_beyond_body_language.md
+      - "Chapter 12: The Baseline Imperative": books/deception/chapter_12_the_baseline_imperative.md
+      - "Chapter 13: The Coherence Test": books/deception/chapter_13_the_coherence_test.md
+      - "Chapter 14: The Stress Test": books/deception/chapter_14_the_stress_test.md
+      - "Chapter 15: The Trust Ledger": books/deception/chapter_15_the_trust_ledger.md
+      - "Chapter 16: The Go/No-Go Decision": books/deception/chapter_16_the_go_no_go_decision.md
+      - "Chapter 17: The Controlled Confrontation": books/deception/chapter_17_controlled_confrontation.md
+      - "Chapter 18: Document and Disengage": books/deception/chapter_18_document_and_disengage.md
+      - "Chapter 19: Forcing Functions": books/deception/chapter_19_forcing_functions.md
+      - "Chapter 20: Rebuilding After the Lie": books/deception/chapter_20_rebuilding_after_the_lie.md
+      - "Chapter 21: The Bias Blind Spot": books/deception/chapter_21_the_bias_blind_spot.md
+      - "Chapter 22: The Cost of Hypervigilance": books/deception/chapter_22_the_cost_of_hypervigilance.md
+      - "Chapter 23: The Gravity of Truth": books/deception/chapter_23_the_gravity_of_truth.md
+      - Conclusion: books/deception/conclusion.md
+      - Outline: books/deception/outline.md
+  - Strategic Actions:
+      - Introduction: books/strategic_actions/introduction.md
+      - "Chapter 1: The Architecture of Action": books/strategic_actions/chapter_1_the_architecture_of_action.md
+      - "Chapter 2: The Slow Poison": books/strategic_actions/chapter_2_the_slow_poison.md
+      - "Chapter 3: When Courage is Strategic and When It's Reckless": books/strategic_actions/chapter_3_when_courage_is_strategic_and_when_its_reckless.md
+      - "Chapter 4: The 5 Things You Need to Be Courageous": books/strategic_actions/chapter_4_the_5_things_you_need_to_be_courageous.md
+      - "Chapter 5: Why Humble People Are More Courageous": books/strategic_actions/chapter_5_why_humble_people_are_more_courageous.md
+      - "Ethics: Idealism vs Principled": books/strategic_actions/ethics_idealism_vs_principled.md
+      - "Chapter X: Developing Your Information Diet": books/strategic_actions/chapter_X_developing_your_information_diet.md
+      - "Chapter X: The Chasm Framework": books/strategic_actions/chapter_X_the_chasm_framework.md
+      - "Chapter X: The Opportunity Ledger": books/strategic_actions/chapter_X_the_opportunity_ledger.md
+      - "Chapter X: The Self-Respect Protocol": books/strategic_actions/chapter_X_the_self_respect_protocol.md
+      - Outline: books/strategic_actions/outline.md
+  - The First 90 Days:
+      - Introduction: books/the_first_90_days/introduction.md
+      - "Chapter 1: Seeing the Real System": books/the_first_90_days/chapter_1_seeing_the_real_system.md
+      - "Chapter 2: Decoding Cultural Fit": books/the_first_90_days/chapter_2_decoding_cultural_fit.md
+      - "Chapter 3: Normative Clarity Audit": books/the_first_90_days/chapter_3_normative_clarity_audit.md
+      - "Chapter 4: Go/No-Go Decision": books/the_first_90_days/chapter_4_go_no_go_decision.md
+      - "Chapter 5: Confirming the Diagnosis": books/the_first_90_days/chapter_5_confirming_the_diagnosis.md
+      - "Chapter 6: Crafting Your Narrative": books/the_first_90_days/chapter_6_crafting_your_narrative.md
+      - "Chapter 7: The First Ally": books/the_first_90_days/chapter_7_the_first_ally.md
+      - "Chapter 8: Securing an Early Win": books/the_first_90_days/chapter_8_securing_an_early_win.md
+      - "Chapter 9: Setting Strategic Boundaries": books/the_first_90_days/chapter_9_setting_strategic_boundaries.md
+      - "Chapter 10: Building Your Alliance Network": books/the_first_90_days/chapter_10_building_your_alliance_network.md
+      - Conclusion: books/the_first_90_days/conclusion.md
+      - Outline: books/the_first_90_days/outline.md
+  - Workplace:
+      - Outline: books/workplace/outline.md
+  - Harmful People: From Interpersonal Threats to Toxic Systems:
+      - Introduction: books/harmful_people/introduction.md
+      - "Normative Clarity: Introduction": books/harmful_people/normative_clarity_introduction.md
+      - The Assault on Shared Reality: books/harmful_people/the_assault_on_shared_reality.md
+      - Reclaiming Your Narrative: books/harmful_people/reclaiming_your_narrative.md
+      - "Case Study: Normative Clarity": books/harmful_people/case_study_normative_clarity.md
+      - "Chapter 1: A Neuro-Safety Imperative": books/harmful_people/chapter_1_a_neuro_safety_imperative.md
+      - "Chapter 2: The Long-Term Erosion": books/harmful_people/chapter_2_the_long_term_erosion.md
+      - "Chapter 5: The Baseline of Respect": books/harmful_people/chapter_5_the_baseline_of_respect.md
+      - "Chapter 12: How to Spot Subtle Hostility (The Withdrawal of Goodwill)": books/harmful_people/chapter_12_how_to_spot_subtle_hostility.md
+      - Outline: books/harmful_people/outline.md
+  - Relationships:
+      - Outline: books/relationships/outline.md
+      - "Chapter 1: Shared Reality": books/relationships/chapter_1_shared_reality.md
+      - "Chapter 2: Core Components": books/relationships/chapter_2_core_components.md
+  - Narrative Control:
+      - Outline: books/narrative_control/outline.md
+      - Proactive Narration: books/narrative_control/proactive_narration.md
+  - AI:
+      - Outline: books/ai/outline.md
+      - Words as Scaffolding: books/ai/01_words_as_scaffolding.md
+  - Power:
+      - Outline: books/power/outline.md
+  - Survival:
+      - Outline: books/survival/outline.md
+      - War: books/survival/chapter_war.md
+  - Diplomacy:
+      - Outline: books/diplomacy/outline.md
+  - Negotiation:
+      - 'Outline': 'books/intermediate/negotiation/outline.md'
+      - 'Chapter Details': 'books/intermediate/negotiation/detailed_chapter_outline.md'
+  - Empathy:
+      - Outline: books/empathy/outline.md
+  - Reader's Companion:
+      - Outline: books/readers_companion/outline.md
+      - Author and Intent: books/readers_companion/chapter_author_and_intent.md
+      - Order Checklist: books/readers_companion/chapter_order_checklist.md
+  - Stories:
+      - "Narrative Control: Defending Reality": stories/narrative_control_defending_reality.md
+      - "Relationships: Shared Reality": stories/relationships_shared_reality.md
+      - "Harmful People: Assault on Reality": stories/harmful_people_assault_on_reality.md
+  - Interactive Simulations:
+      - Overview: interactive_simulations/README.md
+      - Workplace Simulation Design: interactive_simulations/workplace_simulation_design.md
+      - Workplace Simulation Prototype: interactive_simulations/workplace_simulation/index.html
+  - Wisdom & Analysis:
+      - Overview: wisdom_and_analysis/README.md
+      - On Progress and Paying Attention: wisdom_and_analysis/on_progress_and_paying_attention.md
