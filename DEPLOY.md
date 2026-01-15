@@ -1,16 +1,14 @@
 # Deployment Instructions
 
-## Cloudflare Pages
+## Cloudflare Pages (CRITICAL SETTINGS)
 
-Since this directory is your repository root, deployment is standard:
-
-1.  **Connect Git:** Connect this repository to Cloudflare Pages.
-2.  **Build Settings:**
-    *   **Framework:** `Jekyll`
-    *   **Build Command:** `bundle exec jekyll build`
-    *   **Build Output Directory:** `_site`
-
-That's it. Your books will appear directly at your domain (e.g., `your-site.com`), not inside any subdirectory.
+1.  **Project Name:** Essential Education
+2.  **Git Repo:** `nodesman/essential-education`
+3.  **Branch:** `main`
+4.  **Framework Preset:** `Jekyll`
+5.  **Build Command:** `bundle exec jekyll build`
+    *   **IMPORTANT:** Do NOT use just `jekyll build`. You MUST use `bundle exec jekyll build` to avoid "Gem::LoadError" or "public_suffix" errors.
+6.  **Build Output Directory:** `_site`
 
 ## Docker (Local Run)
 
