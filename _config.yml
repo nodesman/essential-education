@@ -1,45 +1,15 @@
-# Jekyll configuration for GitHub Pages
+title: Essential Education
+email: raj@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A library for agency, strategy, and ethical power.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+theme: minima
+plugins:
+  - jekyll-feed
 
-# Use Just the Docs for built-in sidebar + search
-remote_theme: pmarsceill/just-the-docs
-
-# Site settings
-url: "https://nodesman.github.io"
-baseurl: "/essential-education"
-
-title: "Essential Education"
-description: "A three-tier library: beginner, intermediate, advanced."
-
-# Directory containing most markdown content (kept as-is)
-# We keep default source (repo root) so docs/** markdown are auto-discovered.
-
-# Defaults so existing markdown (without front-matter) still renders
 defaults:
   - scope:
-      path: "docs"     # all files in docs/
-      type: "pages"
+      path: ""
     values:
-      layout: default
-      nav_order: 10
-
-# Build settings
-markdown: kramdown
-
-# Exclude common non-site folders
-exclude:
-  - "harm_calculator_app"
-  - "legal_navigator_app"
-  - "systemofamind"
-  - "*.tmp"
-
-# Enable the sidebar navigation from directories
-just_the_docs:
-  collections:
-    beginner:
-      output: true
-    intermediate:
-      output: true
-    advanced:
-      output: true
-  aux_links:
-    "Repository": "https://github.com/<username>/<repo>"
+      layout: "default"

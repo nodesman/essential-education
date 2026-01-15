@@ -8,3 +8,10 @@ node_modules/
 
 # Kai internal files (logs, cache, config) - (auto-added by Kai)
 .kai/
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/

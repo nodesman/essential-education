@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1 class="page-heading">The Essential Education Library</h1>
+
+  <p>A comprehensive system for agency, strategy, and ethical power. 32 Volumes designed to build a "Culture of One".</p>
+
+  <div class="library-grid">
+    {% assign sorted_pages = site.pages | sort: "volume" %}
+    {% for p in sorted_pages %}
+      {% if p.layout == 'volume' %}
+      <div class="volume-card">
+        <span class="volume-number">Vol {{ p.volume }}</span>
+        <h3><a class="post-link" href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
+        <p>{{ p.subtitle }}</p>
+      </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+</div>

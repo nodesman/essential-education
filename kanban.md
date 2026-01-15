@@ -1,6 +1,7 @@
 # Essential Education Kanban Board
 
 ## ROUGH NOTES (Inbox)
+- the_physics_of_care.md
 - 2025-09-02_the_logic_of_parasitic_relationships.md
 - 2025-09-02_coaching_vs_coercion.md
 - 2023-11-06_idealism_vs_pragmatism_criticism.md
