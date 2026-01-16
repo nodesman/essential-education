@@ -1,0 +1,19 @@
+<div class="sidebar">
+  <a href="{{ "/" | relative_url }}" class="sidebar-title">Essential Education</a>
+  
+  <div class="volume-list">
+    <span class="volume-label">Library Volumes</span>
+    <ul class="chapter-list">
+      {% assign sorted_pages = site.pages | sort: "volume" %}
+      {% for p in sorted_pages %}
+        {% if p.layout == 'volume' %}
+        <li class="chapter-item">
+          <a href="{{ p.url | relative_url }}" {% if page.url == p.url %}class="active"{% endif %}>
+            <span class="vol-num">{{ p.volume }}.</span> {{ p.title }}
+          </a>
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</div>

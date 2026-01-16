@@ -16,6 +16,7 @@
   --font-ui: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   
   --content-max-width: 800px;
+  --sidebar-width: 300px;
 }
 
 * {
@@ -33,11 +34,101 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Container */
+/* App Layout */
+.app-container {
+    display: flex;
+    min-height: 100vh;
+}
+
+/* Sidebar */
+.sidebar {
+    width: var(--sidebar-width);
+    background-color: var(--sidebar-bg);
+    border-right: 1px solid var(--border-color);
+    position: fixed;
+    height: 100vh;
+    overflow-y: auto;
+    padding: 2rem 1.5rem;
+    z-index: 100;
+}
+
+.sidebar-title {
+    font-family: var(--font-headline);
+    font-size: 1.25rem;
+    font-weight: 800;
+    color: var(--header-color);
+    text-decoration: none;
+    display: block;
+    margin-bottom: 2.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.volume-label {
+    font-family: var(--font-ui);
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    margin-bottom: 1rem;
+    display: block;
+}
+
+.chapter-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.chapter-item {
+    margin-bottom: 0.25rem;
+}
+
+.chapter-item a {
+    display: block;
+    padding: 0.6rem 0.75rem;
+    margin-left: -0.75rem;
+    color: var(--text-color);
+    text-decoration: none;
+    font-family: var(--font-ui);
+    font-size: 0.95rem;
+    border-radius: 6px;
+    transition: background-color 0.2s, color 0.2s;
+    line-height: 1.4;
+}
+
+.chapter-item a:hover {
+    color: var(--accent-color);
+    background-color: var(--hover-bg);
+}
+
+.chapter-item a.active {
+    color: var(--accent-color);
+    background-color: #eef3f8;
+    font-weight: 600;
+}
+
+.vol-num {
+    color: var(--text-muted);
+    margin-right: 4px;
+    font-weight: 400;
+    font-size: 0.9em;
+}
+
+/* Main Content Area */
+.main-content {
+    margin-left: var(--sidebar-width);
+    flex: 1;
+    width: calc(100% - var(--sidebar-width));
+    min-height: 100vh;
+}
+
+/* Content Container */
 .container {
-    max-width: 1100px;
+    max-width: 900px;
     margin: 0 auto;
-    padding: 2rem;
+    padding: 4rem 4rem;
 }
 
 /* Grid & Cards (Library/Index View) */
@@ -101,11 +192,9 @@ body {
 
 /* Volume Header Styles (Article View) */
 .volume-header {
-    background-color: var(--sidebar-bg);
-    padding: 60px 40px;
+    padding: 0 0 40px 0;
     margin-bottom: 40px;
     border-bottom: 1px solid var(--border-color);
-    text-align: center;
 }
 
 .volume-meta {
@@ -129,16 +218,13 @@ body {
 .volume-subtitle {
     font-weight: 400;
     color: var(--text-muted);
-    font-size: 1.25rem;
-    max-width: 600px;
-    margin: 0 auto;
+    font-size: 1.5rem;
+    margin: 0;
 }
 
 /* Article Typography */
 article {
-    max-width: var(--content-max-width);
-    margin: 0 auto;
-    padding: 2rem 0;
+    padding: 0;
 }
 
 article h2 {
@@ -185,36 +271,24 @@ article a:hover {
     text-decoration-thickness: 2px;
 }
 
-/* Buttons/Links */
-.btn {
-    display: inline-block;
-    padding: 0.75rem 1.5rem;
-    background-color: var(--accent-color);
-    color: #fff;
-    text-decoration: none;
-    border-radius: 6px;
-    font-family: var(--font-ui);
-    font-weight: 600;
-    font-size: 0.95rem;
-    transition: background-color 0.2s;
-}
-
-.btn:hover {
-    background-color: var(--accent-hover);
-}
-
 /* Responsive */
-@media (max-width: 768px) {
+@media (max-width: 900px) {
+    .sidebar {
+        transform: translateX(-100%);
+        box-shadow: 4px 0 12px rgba(0,0,0,0.1);
+        transition: transform 0.3s ease;
+    }
+    
+    .sidebar.open {
+        transform: translateX(0);
+    }
+
+    .main-content {
+        margin-left: 0;
+        width: 100%;
+    }
+    
     .container {
-        padding: 1rem;
-    }
-    .volume-header {
-        padding: 40px 20px;
-    }
-    .volume-header h1 {
-        font-size: 2.2rem;
-    }
-    article {
-        padding: 1rem;
+        padding: 4rem 1.5rem;
     }
 }
