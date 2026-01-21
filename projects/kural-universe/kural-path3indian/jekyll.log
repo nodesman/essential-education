@@ -1,0 +1,61 @@
+Configuration file: /Users/rajsekharan/projects/foundry/projects/kural-path3indian/_config.yml
+            Source: /Users/rajsekharan/projects/foundry/projects/kural-path3indian
+       Destination: /Users/rajsekharan/projects/foundry/projects/kural-path3indian/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+                    done in 0.165 seconds.
+ Auto-regeneration: enabled for '/Users/rajsekharan/projects/foundry/projects/kural-path3indian'
+    Server address: http://0.0.0.0:4000/
+  Server running... press ctrl-c to stop.
+[2026-01-05 13:51:05] ERROR '/assets/css/main' not found.
+[2026-01-05 13:51:05] ERROR '/favicon.ico' not found.
+[2026-01-05 13:51:35] ERROR '/favicon.ico' not found.
+[2026-01-05 13:51:57] ERROR '/favicon.ico' not found.
+[2026-01-05 13:52:17] ERROR '/favicon.ico' not found.
+[2026-01-05 13:52:35] ERROR '/favicon.ico' not found.
+[2026-01-05 14:43:40] ERROR '/favicon.ico' not found.
+[2026-01-05 14:46:36] ERROR '/favicon.ico' not found.
+[2026-01-05 14:50:47] ERROR '/"/manifesto/vol1/saffron-cage/"' not found.
+[2026-01-05 14:52:17] ERROR '/"/manifesto/vol1/saffron-cage/"' not found.
+[2026-01-05 14:52:18] ERROR '/"/manifesto/vol1/saffron-cage/"' not found.
+[2026-01-05 14:52:24] ERROR '/"/manifesto/vol1/saffron-cage/"' not found.
+[2026-01-05 14:52:35] ERROR '/favicon.ico' not found.
+[2026-01-05 14:52:36] ERROR '/"/manifesto/vol1/saffron-cage/"' not found.
+[2026-01-05 14:52:37] ERROR '/favicon.ico' not found.
+[2026-01-05 14:55:42] ERROR '/"/manifesto/vol1/saffron-cage/"' not found.
+[2026-01-05 14:55:42] ERROR '/favicon.ico' not found.
+[2026-01-05 14:55:44] ERROR '/"/manifesto/vol1/saffron-cage/"' not found.
+[2026-01-05 14:55:49] ERROR '/favicon.ico' not found.
+[2026-01-05 14:55:51] ERROR '/"/manifesto/vol1/saffron-cage/"' not found.
+[2026-01-05 14:55:51] ERROR '/favicon.ico' not found.
+[2026-01-05 14:55:51] ERROR '/favicon.ico' not found.
+[2026-01-05 14:57:39] ERROR '/favicon.ico' not found.
+[2026-01-05 14:57:44] ERROR '/favicon.ico' not found.
+[2026-01-05 14:57:53] ERROR '/favicon.ico' not found.
+[2026-01-05 14:57:54] ERROR '/favicon.ico' not found.
+[2026-01-05 14:57:54] ERROR '/favicon.ico' not found.
+[2026-01-05 14:57:54] ERROR '/favicon.ico' not found.
+[2026-01-05 14:58:52] ERROR '/favicon.ico' not found.
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.3.4   Please append `--trace` to the `serve` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+/Users/rajsekharan/projects/foundry/projects/kural-path3indian/vendor/bundle/ruby/3.1.0/gems/jekyll-4.3.4/lib/jekyll/commands/serve.rb:286:in `join': SIGTERM (SignalException)
+	from /Users/rajsekharan/projects/foundry/projects/kural-path3indian/vendor/bundle/ruby/3.1.0/gems/jekyll-4.3.4/lib/jekyll/commands/serve.rb:286:in `boot_or_detach'
+	from /Users/rajsekharan/projects/foundry/projects/kural-path3indian/vendor/bundle/ruby/3.1.0/gems/jekyll-4.3.4/lib/jekyll/commands/serve.rb:223:in `start_up_webrick'
+	from /Users/rajsekharan/projects/foundry/projects/kural-path3indian/vendor/bundle/ruby/3.1.0/gems/jekyll-4.3.4/lib/jekyll/commands/serve.rb:102:in `process'
+	from /Users/rajsekharan/projects/foundry/projects/kural-path3indian/vendor/bundle/ruby/3.1.0/gems/jekyll-4.3.4/lib/jekyll/command.rb:91:in `block in process_with_graceful_fail'
+	from /Users/rajsekharan/projects/foundry/projects/kural-path3indian/vendor/bundle/ruby/3.1.0/gems/jekyll-4.3.4/lib/jekyll/command.rb:91:in `each'
+	from /Users/rajsekharan/projects/foundry/projects/kural-path3indian/vendor/bundle/ruby/3.1.0/gems/jekyll-4.3.4/lib/jekyll/command.rb:91:in `process_with_graceful_fail'
+	from /Users/rajsekharan/projects/foundry/projects/kural-path3indian/vendor/bundle/ruby/3.1.0/gems/jekyll-4.3.4/lib/jekyll/commands/serve.rb:86:in `block (2 levels) in init_with_program'
+	from /Users/rajsekharan/projects/foundry/projects/kural-path3indian/vendor/bundle/ruby/3.1.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `block in execute'
+	from /Users/rajsekharan/projects/foundry/projects/kural-path3indian/vendor/bundle/ruby/3.1.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `each'
+	from /Users/rajsekharan/projects/foundry/projects/kural-path3indian/vendor/bundle/ruby/3.1.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `execute'
+	from /Users/rajsekharan/projects/foundry/projects/kural-path3indian/vendor/bundle/ruby/3.1.0/gems/mercenary-0.4.0/lib/mercenary/program.rb:44:in `go'
+	from /Users/rajsekharan/projects/foundry/projects/kural-path3indian/vendor/bundle/ruby/3.1.0/gems/mercenary-0.4.0/lib/mercenary.rb:21:in `program'
+	from /Users/rajsekharan/projects/foundry/projects/kural-path3indian/vendor/bundle/ruby/3.1.0/gems/jekyll-4.3.4/exe/jekyll:15:in `<top (required)>'
+	from /Users/rajsekharan/projects/foundry/projects/kural-path3indian/vendor/bundle/ruby/3.1.0/bin/jekyll:25:in `load'
+	from /Users/rajsekharan/projects/foundry/projects/kural-path3indian/vendor/bundle/ruby/3.1.0/bin/jekyll:25:in `<main>'
+	from /Users/rajsekharan/.rvm/gems/ruby-3.1.0/bin/ruby_executable_hooks:22:in `eval'
+	from /Users/rajsekharan/.rvm/gems/ruby-3.1.0/bin/ruby_executable_hooks:22:in `<main>'

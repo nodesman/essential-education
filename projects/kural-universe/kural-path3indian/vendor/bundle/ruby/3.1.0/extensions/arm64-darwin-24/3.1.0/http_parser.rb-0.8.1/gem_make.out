@@ -1,0 +1,20 @@
+current directory: /Users/rajsekharan/projects/foundry/projects/kural-path3indian/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+/Users/rajsekharan/.rvm/rubies/ruby-3.1.0/bin/ruby -I /Users/rajsekharan/.rvm/rubies/ruby-3.1.0/lib/ruby/3.1.0 -r ./siteconf20260105-78069-f76ep5.rb extconf.rb
+creating Makefile
+
+current directory: /Users/rajsekharan/projects/foundry/projects/kural-path3indian/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= clean
+
+current directory: /Users/rajsekharan/projects/foundry/projects/kural-path3indian/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\=
+compiling ruby_http_parser.c
+ruby_http_parser.c:373:17: warning: comparison of integers of different signs: 'size_t' (aka 'unsigned long') and 'long' [-Wsign-compare]
+  373 |     if (nparsed < len)
+      |         ~~~~~~~ ^ ~~~
+1 warning generated.
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/rajsekharan/projects/foundry/projects/kural-path3indian/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 ruby_http_parser.bundle ./.gem.20260105-78069-r0zrv7

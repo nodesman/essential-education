@@ -1,0 +1,125 @@
+---
+layout: default
+title: Ideology Alignment Test
+---
+
+<div class="quiz-container">
+    <h1>Ideology Alignment Test</h1>
+    <p>Answer the following questions to discover which ideology aligns best with your personal values.</p>
+
+    <div id="quiz">
+        <!-- Questions will be injected here by JS -->
+    </div>
+
+    <button id="submit-btn" onclick="calculateResult()">See My Alignment</button>
+
+    <div id="result" style="display:none;">
+        <h2>Your Alignment: <span id="alignment-name"></span></h2>
+        <p id="alignment-desc"></p>
+    </div>
+</div>
+
+<script>
+    const questions = [
+        {
+            id: 1,
+            text: "When making a difficult decision, what matters most?",
+            options: [
+                { text: "Following established traditions and duty", value: "traditionalist" },
+                { text: "Ensuring fairness and equality for everyone", value: "humanist" },
+                { text: "Personal freedom and individual choice", value: "libertarian" },
+                { text: "Whatever benefits my immediate family/community most", value: "tribalist" }
+            ]
+        },
+        {
+            id: 2,
+            text: "How do you view authority?",
+            options: [
+                { text: "It should be respected and obeyed for order", value: "traditionalist" },
+                { text: "It should be questioned and held accountable", value: "humanist" },
+                { text: "It is often an obstacle to progress", value: "libertarian" },
+                { text: "It depends on if they are 'one of us'", value: "tribalist" }
+            ]
+        },
+        {
+            id: 3,
+            text: "What is the ideal society?",
+            options: [
+                { text: "One where everyone knows their place and role", value: "traditionalist" },
+                { text: "One where everyone has equal opportunity and dignity", value: "humanist" },
+                { text: "One with minimal interference in private lives", value: "libertarian" },
+                { text: "One where my group is strong and protected", value: "tribalist" }
+            ]
+        }
+    ];
+
+    const results = {
+        "traditionalist": {
+            name: "Traditionalist / Dharmic Order",
+            desc: "You value stability, hierarchy, and duty. You likely align with views that prioritize social cohesion and established wisdom over individual experimentation."
+        },
+        "humanist": {
+            name: "Secular Humanist / Path 3",
+            desc: "You value equality, dignity, and reason. You likely align with the 'Path 3' ideology which emphasizes horizontal humility and civic ethics."
+        },
+        "libertarian": {
+            name: "Individualist / Modernist",
+            desc: "You prioritize personal autonomy and freedom. You are skeptical of both traditional restrictions and collective mandates."
+        },
+        "tribalist": {
+            name: "Communitarian / Protective",
+            desc: "You prioritize the safety and advancement of your specific group. You view the world through a lens of loyalty and protection."
+        }
+    };
+
+    function renderQuiz() {
+        const quizDiv = document.getElementById('quiz');
+        let html = '';
+        questions.forEach((q, index) => {
+            html += `<div class="question">
+                <h3>${index + 1}. ${q.text}</h3>
+                <div class="options">`;
+            q.options.forEach(opt => {
+                html += `<label><input type="radio" name="q${q.id}" value="${opt.value}"> ${opt.text}</label>`;
+            });
+            html += `</div></div>`;
+        });
+        quizDiv.innerHTML = html;
+    }
+
+    function calculateResult() {
+        const scores = { traditionalist: 0, humanist: 0, libertarian: 0, tribalist: 0 };
+        let answered = 0;
+
+        questions.forEach(q => {
+            const selected = document.querySelector(`input[name="q${q.id}"]:checked`);
+            if (selected) {
+                scores[selected.value]++;
+                answered++;
+            }
+        });
+
+        if (answered < questions.length) {
+            alert("Please answer all questions.");
+            return;
+        }
+
+        // Find max score
+        let maxScore = -1;
+        let resultKey = '';
+        for (const [key, value] of Object.entries(scores)) {
+            if (value > maxScore) {
+                maxScore = value;
+                resultKey = key;
+            }
+        }
+
+        const resultData = results[resultKey];
+        document.getElementById('alignment-name').innerText = resultData.name;
+        document.getElementById('alignment-desc').innerText = resultData.desc;
+        document.getElementById('result').style.display = 'block';
+        document.getElementById('submit-btn').style.display = 'none';
+    }
+
+    renderQuiz();
+</script>

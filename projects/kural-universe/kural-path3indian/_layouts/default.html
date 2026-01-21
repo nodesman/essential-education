@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 2rem; color: #333; }
+        header { border-bottom: 1px solid #eee; margin-bottom: 2rem; padding-bottom: 1rem; }
+        nav a { margin-right: 1rem; text-decoration: none; color: #007bff; }
+        nav a:hover { text-decoration: underline; }
+        h1, h2, h3 { color: #111; }
+        blockquote { border-left: 4px solid #eee; padding-left: 1rem; color: #555; }
+        .quiz-container { background: #f9f9f9; padding: 2rem; border-radius: 8px; }
+        .question { margin-bottom: 1.5rem; }
+        .options label { display: block; margin-bottom: 0.5rem; }
+        button { background: #007bff; color: white; border: none; padding: 0.5rem 1rem; cursor: pointer; border-radius: 4px; }
+        button:hover { background: #0056b3; }
+        #result { margin-top: 2rem; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1><a href="/" style="color: inherit; text-decoration: none;">{{ site.title }}</a></h1>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/ideology">Ideology Test</a>
+            <a href="/humility">Humility</a>
+            <a href="/tanatanakurma">Tanatanakurma</a>
+        </nav>
+    </header>
+    <main>
+        {{ content }}
+    </main>
+    <footer>
+        <hr>
+        <p>&copy; {{ site.time | date: "%Y" }} Path 3 Indian</p>
+    </footer>
+</body>
+</html>
